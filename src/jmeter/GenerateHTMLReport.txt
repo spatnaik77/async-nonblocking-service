@@ -1,0 +1,3 @@
+./jmeter.sh -g /Users/sr250345/Documents/siddharth/personal/mygithub/async-nonblocking-service/src/jmeter/blocking/blocking.csv -o /Users/sr250345/Documents/siddharth/personal/mygithub/async-nonblocking-service/src/jmeter/blocking/html
+
+./jmeter.sh -g /Users/sr250345/Documents/siddharth/personal/mygithub/async-nonblocking-service/src/jmeter/non-blocking/non-blocking.csv -o /Users/sr250345/Documents/siddharth/personal/mygithub/async-nonblocking-service/src/jmeter/non-blocking/html
